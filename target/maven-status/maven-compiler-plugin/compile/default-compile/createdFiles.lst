@@ -1,0 +1,7 @@
+Main.class
+fighter\dungeonboss\Boss.class
+fighter\dungeonboss\BossNature.class
+fighter\MightyFighter.class
+fighter\specialweapon\MightyWeapon.class
+fighter\FighterClass.class
+fighter\WeaponType.class
